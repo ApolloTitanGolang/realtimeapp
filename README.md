@@ -1,3 +1,3 @@
-# ProjectEuler
+# Udemy Course
 
-some examples from Project Euler
+go, reactjs and rethinkdb
